@@ -1,41 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://d-shein.github.io/</loc>
-  </url>
+  <sitemap>
+    <loc>https://d-shein.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://d-shein.github.io/authors/</loc>
-  </url>
+  <sitemap>
+    <loc>https://d-shein.github.io/es/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://d-shein.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://d-shein.github.io/author/daniel-sheinbaum/</loc>
-  </url>
-  
-  <url>
-    <loc>https://d-shein.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://d-shein.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://d-shein.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://d-shein.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://d-shein.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

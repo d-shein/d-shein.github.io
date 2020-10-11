@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://d-shein.github.io/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-shein.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-shein.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-shein.github.io/author/daniel-sheinbaum/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/author/daniel-sheinbaum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/author/daniel-sheinbaum/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-shein.github.io/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-shein.github.io/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-shein.github.io/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-shein.github.io/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-shein.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://d-shein.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-shein.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
